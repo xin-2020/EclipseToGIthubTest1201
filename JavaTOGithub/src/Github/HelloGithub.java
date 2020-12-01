@@ -10,6 +10,7 @@ public class HelloGithub {
 		for(i;i=0;i++){
 		System.out.println("java is best language! ");
 			System.out.println("java is best language! ");
+			System.out.println("java is best language! ");
 		}
 		
 	}
